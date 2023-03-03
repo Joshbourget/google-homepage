@@ -1,2 +1,2 @@
 # google-homepage
-I recreated the google homepage
+I recreated the google homepage.
